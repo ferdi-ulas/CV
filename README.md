@@ -7,4 +7,4 @@
     I want to guide others by sharing the experiences and knowledge I have gained in the software world and to use this professionalism in the most beneficial way in business life and take part in projects that will touch people's lives.
 
 
-# 🚀 [Demo](https://66ad36160e15abaee6459c36--effortless-lily-f365d4.netlify.app/)
+# 🚀 [Demo](https://cv-xi-silk.vercel.app/)
